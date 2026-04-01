@@ -21,6 +21,12 @@ A desktop application built with Java Swing that allows users to register, login
 
 ## ▶️ Run
 
+## 📸 Screenshot
+
+![App screenshot]()
+
+---
+
 Run Main.java in IntelliJ
 
 ## 👨‍💻 Author
