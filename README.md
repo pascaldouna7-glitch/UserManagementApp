@@ -23,7 +23,7 @@ A desktop application built with Java Swing that allows users to register, login
 
 ## 📸 Screenshot
 
-![App screenshot]()
+![App screenshot](https://github.com/pascaldouna7-glitch/UserManagementApp/blob/afacd9efe2a450bf7e6d30b9c46f93d0f99ecaae/screenshot.png)
 
 ---
 
